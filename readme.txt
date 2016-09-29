@@ -1,2 +1,2 @@
-第一次使用git
-Git is free software
+我第一次使用git
+第三次操作
